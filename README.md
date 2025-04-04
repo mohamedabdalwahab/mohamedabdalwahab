@@ -57,9 +57,9 @@
 
   <p>🚀 <strong>أسعى دائمًا إلى اكتشاف تقنيات جديدة والمساهمة في المشاريع البرمجية المفتوحة المصدر.</strong><br>
   أطمح إلى تحسين التجربة الرقمية عبر تطوير برمجيات ذكية تعتمد على الأتمتة وتحليل البيانات، وأعمل باستمرار على مشاريع مختلفة.</p>
-</div>].</h2>
+</div></h2>
 
-###
+<hr>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
